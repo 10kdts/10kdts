@@ -2,6 +2,8 @@
 
 ### Dados que saem do notebook e chegam à decisão
 
+🌐 [Veja meu portfólio completo](https://kaio-data-portfolio.peachymaple21.chatgpt.site)
+
 Gosto de pegar um problema meio solto, entender o que realmente precisa ser respondido e transformar isso em uma solução que outra pessoa consiga usar. Trabalho da ingestão à análise, passando por qualidade, modelagem, machine learning e operação. Nos projetos abaixo eu mostro o código, as decisões que tomei e também o que ainda pode melhorar.
 
 ## Projetos em destaque
