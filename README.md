@@ -1,8 +1,8 @@
-# Olá, eu sou o 10kdts 👋
+# Olá, eu sou Kaio Paiva 👋
 
 ### Dados que saem do notebook e chegam à decisão
 
-Construo soluções de dados de ponta a ponta — da ingestão e qualidade à modelagem analítica, machine learning, observabilidade e documentação operacional. Meu portfólio prioriza projetos reproduzíveis, decisões arquiteturais explícitas e resultados que podem ser verificados.
+Gosto de pegar um problema meio solto, entender o que realmente precisa ser respondido e transformar isso em uma solução que outra pessoa consiga usar. Trabalho da ingestão à análise, passando por qualidade, modelagem, machine learning e operação. Nos projetos abaixo eu mostro o código, as decisões que tomei e também o que ainda pode melhorar.
 
 ## Projetos em destaque
 
@@ -39,12 +39,12 @@ Sistema explicável de detecção de fraude com divisão temporal, prevenção d
 | Machine Learning | Classificação, desbalanceamento, validação temporal, custo e drift |
 | Engenharia de software | Git, testes automatizados, CI/CD, APIs e documentação arquitetural |
 
-## Como trabalho
+## Meu jeito de trabalhar
 
-- Transformo problemas de negócio em métricas e contratos claros.
-- Trato reprocessamento, qualidade, segurança e operação como parte da solução.
-- Documento limitações e evito conclusões que os dados não sustentam.
-- Entrego exemplos executáveis com testes e CI pública.
+- Antes de escolher a ferramenta, tento deixar claro qual decisão o dado precisa apoiar.
+- Não considero um pipeline pronto se reprocessamento, qualidade e falhas ficaram para depois.
+- Registro as limitações do que construí, principalmente quando trabalho com dados sintéticos.
+- Deixo comandos, testes e CI para que o projeto possa ser executado sem depender de mim.
 
 ## Em construção
 
@@ -55,5 +55,5 @@ Sistema explicável de detecção de fraude com divisão temporal, prevenção d
 
 ## Contato
 
-Se quiser conversar sobre dados, analytics, engenharia ou MLOps, abra uma [discussão em um dos projetos](https://github.com/10kdts?tab=repositories) ou conecte-se comigo pelo GitHub.
+Se algum projeto fizer sentido para o problema que você está tentando resolver, pode falar comigo pelo GitHub. Gosto de trocar ideia sobre dados, produto e decisões de arquitetura.
 
