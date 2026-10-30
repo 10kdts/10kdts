@@ -30,6 +30,14 @@ Sistema explicável de detecção de fraude com divisão temporal, prevenção d
 
 `Machine Learning` `MLOps` `API` `Model Monitoring` `Docker` `CI/CD`
 
+### [Pipeline financeiro em tempo quase real](https://github.com/10kdts/realtime-financial-pipeline)
+
+Eu montei este pipeline para lidar com o que acontece quando uma transação chega repetida, atrasada ou fora de ordem. Ele usa tempo do evento, watermark, janela por conta, quarentena e replay idempotente, com contrato de dados, runbook e CI.
+
+**Evidência de execução:** 1.204 mensagens, 1.201 eventos únicos, três duplicidades, um evento atrasado recuperado e 53 alertas.
+
+`Python` `Event Streaming` `Redpanda` `SQLite` `Docker` `GitHub Actions`
+
 ## Competências
 
 | Área | Ferramentas e práticas |
@@ -50,10 +58,8 @@ Sistema explicável de detecção de fraude com divisão temporal, prevenção d
 
 ## Em construção
 
-- Pipeline financeiro em tempo real
 - Forecast de vendas com backtesting
 - Projeto cloud com infraestrutura como código
-- Portfólio web central
 
 ## Contato
 
